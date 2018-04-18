@@ -8,3 +8,5 @@
 ![ex](https://github.com/HuMengtingya/WeChat/blob/master/aaa1/images/little1.png)
 
 ![ex](https://github.com/HuMengtingya/WeChat/blob/master/aaa1/images/little2.png)
+
+![ex](https://github.com/HuMengtingya/flake/blob/master/examples/images/flake.png)
